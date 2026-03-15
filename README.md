@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Szymon
 
-<!--
-**Szymx0504/Szymx0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer focusing on backend systems, data integration, and Edge AI. 
 
-Here are some ideas to get you started:
+My work centers around solving performance bottlenecks, working with containers, and optimizing machine learning models to run efficiently on limited hardware. I am currently focused on bridging the gap between standard backend architectures and local AI inference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Stack
+
+* **Languages:** Python, JavaScript, SQL, Bash
+* **AI & Data:** ONNX Runtime, pgvector, RAG pipelines
+* **Backend & Systems:** FastAPI, Node.js (Express), Docker, Linux
+* **Frontend:** React, HTML/CSS
+
+---
+
+### Selected Projects
+
+#### [EdgeCine](https://github.com/Szymx0504/EdgeCine)
+A high-performance semantic search engine optimized for local inference. 
+* **Stack:** FastAPI, PostgreSQL (pgvector), ONNX, Docker.
+* **Engineering Focus:** Built a custom RAG pipeline that runs entirely locally. To keep hybrid search latency under 100ms on CPU, I converted the embedding models to ONNX and implemented dynamic INT8 quantization, reducing the memory footprint by ~75%.
+
+#### [British Excellence](https://github.com/Szymx0504/British_excellence)
+A full-stack web application demonstrating complete data flow architecture.
+* **Stack:** MongoDB, Express.js, React, Node.js (MERN).
+* **Engineering Focus:** Designed a complete CRUD system with secure user authentication and dynamic data handling to solidify my understanding of REST APIs and NoSQL database management.
+
+---
+
+### Contact
+
+I am actively looking for opportunities in backend engineering, systems integration, or AI deployment.
+
+* **LinkedIn:** [linkedin.com/in/twoj-profil](https://linkedin.com/in/twoj-profil)
+* **Email:** [twoj.email@gmail.com](mailto:twoj.email@gmail.com)
