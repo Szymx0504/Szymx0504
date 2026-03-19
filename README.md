@@ -1,6 +1,6 @@
 # Hi, I'm Szymon
 
-I am a software developer focusing on backend systems, data integration, and Edge AI. 
+I am an AI engineer focusing on backend systems, data integration, and Edge AI. 
 
 My work centers around solving performance bottlenecks, working with containers, and optimizing machine learning models to run efficiently on limited hardware. I am currently focused on bridging the gap between standard backend architectures and local AI inference.
 
