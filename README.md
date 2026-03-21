@@ -21,9 +21,9 @@ A high-performance semantic search engine optimized for local inference.
 * **Engineering Focus:** Built a custom RAG pipeline that runs entirely locally. To keep hybrid search latency under 100ms on CPU, I converted the embedding models to ONNX and implemented dynamic INT8 quantization, reducing the memory footprint by ~75%.
 
 #### [British Excellence](https://github.com/Szymx0504/British_excellence)
-A full-stack web application demonstrating complete data flow architecture.
-* **Stack:** MongoDB, Express.js, React, Node.js (MERN).
-* **Engineering Focus:** Designed a complete CRUD system with secure user authentication and dynamic data handling to solidify my understanding of REST APIs and NoSQL database management.
+An AI-driven full-stack platform designed to accelerate vocabulary acquisition using Large Language Models.
+* **Stack:** Node.js, React, MongoDB, Express, Google Gen AI SDK (Gemini 1.5 Flash), GitHub Actions.
+* **Engineering Focus:** Integrated Google Gemini to generate context-aware content and built a custom semantic caching layer in MongoDB to optimize API latency and significantly reduce token costs. Established CI/CD pipelines for automated testing and deployments.
 
 ---
 
@@ -31,5 +31,5 @@ A full-stack web application demonstrating complete data flow architecture.
 
 I am actively looking for opportunities in backend engineering, systems integration, or AI deployment.
 
-* **LinkedIn:** [linkedin.com/in/twoj-profil](https://linkedin.com/in/twoj-profil)
-* **Email:** [twoj.email@gmail.com](mailto:twoj.email@gmail.com)
+* **LinkedIn:** [linkedin.com/in/szymon-jankowski](https://www.linkedin.com/in/szymon-jankowski-it/)
+* **Email:** [szymonjankovski480@gmail.com](szymonjankovski480@gmail.com)
